@@ -18,7 +18,6 @@ const Header = () => {
           <HeaderSocials />
         </div>
       </header>
-      {/* <HeaderSocials /> */}
     </>
   );
 };
