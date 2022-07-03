@@ -20,7 +20,7 @@ const HeaderSocials = () => {
         <FaGithub />
       </a>
       <a
-        href="https://angel.co/u/meri-gogichashvili"
+        href="https://instagram.com/ll_._itz_._jay_._ll?igshid=YmMyMTA2M2Y="
         target="_blank"
         rel="noreferrer"
       >
