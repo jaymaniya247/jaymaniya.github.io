@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.fe15582f.css",
-    "main.js": "/static/js/main.c935915e.js",
-    "static/media/news.png": "/static/media/news.51439179fb611dbbc400.png",
-    "static/media/shelter.png": "/static/media/shelter.0ae0fda60971cc0e12a4.png",
-    "static/media/cv.pdf": "/static/media/cv.7c6236a026cde334a51b.pdf",
-    "static/media/me.jpg": "/static/media/me.ddd895ec7acc693cf38f.jpg",
-    "static/media/fake.png": "/static/media/fake.8e617936ab1f7320886e.png",
-    "static/media/todo.png": "/static/media/todo.5bff4a5396a3b8a42ced.png",
-    "static/media/math.png": "/static/media/math.dda088e8d9f35030227c.png",
-    "static/media/bookstore.png": "/static/media/bookstore.9ccca64e16bf562c3108.png",
-    "index.html": "/index.html",
-    "main.fe15582f.css.map": "/static/css/main.fe15582f.css.map",
-    "main.c935915e.js.map": "/static/js/main.c935915e.js.map"
+    "main.css": "/jaymaniya.github.io/static/css/main.fe15582f.css",
+    "main.js": "/jaymaniya.github.io/static/js/main.0f040472.js",
+    "static/media/news.png": "/jaymaniya.github.io/static/media/news.51439179fb611dbbc400.png",
+    "static/media/shelter.png": "/jaymaniya.github.io/static/media/shelter.0ae0fda60971cc0e12a4.png",
+    "static/media/cv.pdf": "/jaymaniya.github.io/static/media/cv.7c6236a026cde334a51b.pdf",
+    "static/media/me.jpg": "/jaymaniya.github.io/static/media/me.ddd895ec7acc693cf38f.jpg",
+    "static/media/fake.png": "/jaymaniya.github.io/static/media/fake.8e617936ab1f7320886e.png",
+    "static/media/todo.png": "/jaymaniya.github.io/static/media/todo.5bff4a5396a3b8a42ced.png",
+    "static/media/math.png": "/jaymaniya.github.io/static/media/math.dda088e8d9f35030227c.png",
+    "static/media/bookstore.png": "/jaymaniya.github.io/static/media/bookstore.9ccca64e16bf562c3108.png",
+    "index.html": "/jaymaniya.github.io/index.html",
+    "main.fe15582f.css.map": "/jaymaniya.github.io/static/css/main.fe15582f.css.map",
+    "main.0f040472.js.map": "/jaymaniya.github.io/static/js/main.0f040472.js.map"
   },
   "entrypoints": [
     "static/css/main.fe15582f.css",
-    "static/js/main.c935915e.js"
+    "static/js/main.0f040472.js"
   ]
 }
