@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/jaymaniya.github.io/static/css/main.fe15582f.css",
-    "main.js": "/jaymaniya.github.io/static/js/main.21f6ecd8.js",
+    "main.js": "/jaymaniya.github.io/static/js/main.99b97f85.js",
     "static/media/news.png": "/jaymaniya.github.io/static/media/news.51439179fb611dbbc400.png",
     "static/media/shelter.png": "/jaymaniya.github.io/static/media/shelter.0ae0fda60971cc0e12a4.png",
     "static/media/cv.pdf": "/jaymaniya.github.io/static/media/cv.7c6236a026cde334a51b.pdf",
@@ -12,10 +12,10 @@
     "static/media/bookstore.png": "/jaymaniya.github.io/static/media/bookstore.9ccca64e16bf562c3108.png",
     "index.html": "/jaymaniya.github.io/index.html",
     "main.fe15582f.css.map": "/jaymaniya.github.io/static/css/main.fe15582f.css.map",
-    "main.21f6ecd8.js.map": "/jaymaniya.github.io/static/js/main.21f6ecd8.js.map"
+    "main.99b97f85.js.map": "/jaymaniya.github.io/static/js/main.99b97f85.js.map"
   },
   "entrypoints": [
     "static/css/main.fe15582f.css",
-    "static/js/main.21f6ecd8.js"
+    "static/js/main.99b97f85.js"
   ]
 }
